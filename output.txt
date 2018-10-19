@@ -1,0 +1,19 @@
+DE,ticker
+CT,8,T
+PS,8200
+PN,10000
+SC,0000
+OL,2,W`x<,lp                                 
+OL,3,W~% | +4  Gheise online                 
+OL,4,W7 h7x  G  Gnewsticker                 
+OL,5,W5 `7 %                                
+OL,6,Wk2!"  0                                
+OL,7,W +,,,' WAWppppppppppppppppppppppppppppp
+OL,9, Sicherheitsexperte Bruce Schneier forder
+OL,10, t "Bremse für Innovationen"
+OL,12, heise-Angebot: Chatbot-Summit: c't-Leser
+OL,13,  zahlen weniger
+OL,15, World Robot Summit: Wenn der Roboter das
+OL,16,  Klo putzt
+OL,18, Adieu Öltröpfchen-Displays: Amazon schli
+OL,19, eßt Liquavista
